@@ -1,0 +1,18 @@
+{
+  "userdata": [
+    {
+      "id": 1,
+      "firstname": "nikita",
+      "lastname": "bakade",
+      "email": "nikita@gmail.com",
+      "mobile": "123456780",
+      "age": 99,
+      "state": "maharastra",
+      "country": "india",
+      "address": "mumbai"
+    },
+    {
+      "id": 2
+    }
+  ]
+}
